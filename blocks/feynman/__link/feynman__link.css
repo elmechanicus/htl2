@@ -1,5 +1,5 @@
     .feynman__link {
-        display: flex;
+        display: inline-block;
         text-decoration: none;
         color: #2f80ed;
         font-size: 36px;

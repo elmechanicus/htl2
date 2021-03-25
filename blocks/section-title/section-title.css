@@ -1,9 +1,11 @@
 .section-title {
-    display: flex;
+    display: inline-block;
+    /*А прошлый ревьювер этот косяк не увидел :))*/
     width: 60%;
     font-size: 60px;
     font-weight: bold;
     line-height: 1.15;
+    text-align: center;
     margin: 0 auto;
     padding: 0;
     justify-content: center;
